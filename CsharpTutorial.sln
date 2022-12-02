@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpTutorial", "CsharpTutorial\CsharpTutorial.csproj", "{047D3D4F-C8BE-4D00-A6AC-F3512EDC5342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTutorialLibrary", "CsharpTutorialLibrary\CsharpTutorialLibrary.csproj", "{04496BFF-5F84-4C21-86E7-8FF1C2B5E1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047D3D4F-C8BE-4D00-A6AC-F3512EDC5342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047D3D4F-C8BE-4D00-A6AC-F3512EDC5342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047D3D4F-C8BE-4D00-A6AC-F3512EDC5342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047D3D4F-C8BE-4D00-A6AC-F3512EDC5342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04496BFF-5F84-4C21-86E7-8FF1C2B5E1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04496BFF-5F84-4C21-86E7-8FF1C2B5E1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04496BFF-5F84-4C21-86E7-8FF1C2B5E1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04496BFF-5F84-4C21-86E7-8FF1C2B5E1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C47701-2462-45A8-95D4-E534587195F3}
+	EndGlobalSection
+EndGlobal
