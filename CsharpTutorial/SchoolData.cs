@@ -8,6 +8,7 @@ namespace School
 {
     public class Student
     {
+       
       public void Display()
         {
             Console.WriteLine("Hey i m from student class");
